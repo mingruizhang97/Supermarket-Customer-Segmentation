@@ -1,2 +1,2 @@
 # Supermarket-Customer-Segmentation
-[embed]https://github.com/mingruizhang97/Supermarket-Customer-Segmentation/blob/main/ZhangMingruiProjectReport.pdf[/embed]
+Please check the report <p><a href="https://github.com/mingruizhang97/Supermarket-Customer-Segmentation/blob/main/ZhangMingruiProjectReport.pdf">here</a></p>
